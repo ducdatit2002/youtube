@@ -1,0 +1,9 @@
+import 
+import mysql from 'mysql2';
+const connect = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "1234",
+    port: "3307",
+    database: "db_youtube"
+});

@@ -1,0 +1,4 @@
+Thư viện mã hoá password:
+- yarn add bcrypt
+Mã hoá, kiểm tra token hợp lệ, giải mã token:
+// yarn add jsonwebtoken
